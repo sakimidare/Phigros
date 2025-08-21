@@ -41,7 +41,8 @@ for idx, item in enumerate(ul_data):
         chapter = item.find('td', text="所属章节").find_next("td").get_text(types=(NavigableString, TemplateString))
         bpm = item.find('td', text="BPM").find_next("td").get_text(types=(NavigableString, TemplateString))
         composer = re.sub(r'\[\d+\]','',item.find('td', text="曲师").find_next("td").get_text(types=(NavigableString, TemplateString)))
-        length = item.find('td', text="长度").find_next("td").get_text(types=(NavigableString, TemplateString))
+        get_len = item.find('td', text="时长") or item.find('td', text="长度")
+        length = get_len.find_next("td").get_text(types=(NavigableString, TemplateString))
         illustrator = re.sub(r'\[\d+\]','',item.find('td', text="画师").find_next("td").get_text(types=(NavigableString, TemplateString)))
         chart = {}
         if not item.find('td', text="EZ") is None:
