@@ -2843,6 +2843,102 @@
             }
         }
     },
+    "Flutter Echo": {
+        "song": "Flutter Echo",
+        "illustration": "https://img.moegirl.org.cn/common/thumb/0/0e/Flutter_Echo_Phigros.png/304px-Flutter_Echo_Phigros.png",
+        "illustration_big": "https://img.moegirl.org.cn/common/0/0e/Flutter_Echo_Phigros.png",
+        "chapter": "Chapter EX-KALPA精选集",
+        "bpm": "219",
+        "composer": "Cansol",
+        "length": "2:43",
+        "illustrator": "Taurell",
+        "chart": {
+            "EZ": {
+                "level": "3",
+                "difficulty": "3.5",
+                "combo": "222",
+                "charter": "Rikko"
+            },
+            "HD": {
+                "level": "9",
+                "difficulty": "9.8",
+                "combo": "555",
+                "charter": "|R|I|K|K|O| NORMAL"
+            },
+            "IN": {
+                "level": "14",
+                "difficulty": "14.9",
+                "combo": "1046",
+                "charter": "Clutter Echo"
+            }
+        }
+    },
+    "Re:birth": {
+        "song": "Re:birth",
+        "illustration": "https://img.moegirl.org.cn/common/thumb/d/d4/Re_birth_Phigros.png/304px-Re_birth_Phigros.png",
+        "illustration_big": "https://img.moegirl.org.cn/common/d/d4/Re_birth_Phigros.png",
+        "chapter": "Chapter EX-KALPA精选集",
+        "bpm": "196",
+        "composer": "ああああ",
+        "length": "2:38",
+        "illustrator": "QueseraGames Co.,Ltd.",
+        "chart": {
+            "EZ": {
+                "level": "6",
+                "difficulty": "6.0",
+                "combo": "321",
+                "charter": "啊哒咔哟&小咩兔&COC"
+            },
+            "HD": {
+                "level": "12",
+                "difficulty": "12.3",
+                "combo": "733",
+                "charter": "啊哒咔哟&小咩兔&COC"
+            },
+            "IN": {
+                "level": "15",
+                "difficulty": "15.4",
+                "combo": "939",
+                "charter": "Gausbon&StupiGGy"
+            }
+        }
+    },
+    "Avataar~Reincarnation of Kalpa~": {
+        "song": "Avataar~Reincarnation of Kalpa~",
+        "illustration": "https://img.moegirl.org.cn/common/thumb/6/6d/Avataar_Reincarnation_of_Kalpa_Phigros.png/304px-Avataar_Reincarnation_of_Kalpa_Phigros.png",
+        "illustration_big": "https://img.moegirl.org.cn/common/6/6d/Avataar_Reincarnation_of_Kalpa_Phigros.png",
+        "chapter": "Chapter EX-KALPA精选集",
+        "bpm": "180",
+        "composer": "Scarlette a.k.a CrYmson",
+        "length": "2:55",
+        "illustrator": "QueseraGames Co.,Ltd.",
+        "chart": {
+            "EZ": {
+                "level": "2",
+                "difficulty": "2.0",
+                "combo": "122",
+                "charter": "Su1fuR"
+            },
+            "HD": {
+                "level": "8",
+                "difficulty": "8.2",
+                "combo": "887",
+                "charter": "Su1fuR"
+            },
+            "IN": {
+                "level": "13",
+                "difficulty": "13.4",
+                "combo": "979",
+                "charter": "Salt"
+            },
+            "AT": {
+                "level": "16",
+                "difficulty": "16.6",
+                "combo": "1074",
+                "charter": "XMT&Salt"
+            }
+        }
+    },
     "Apocalypse": {
         "song": "Apocalypse",
         "illustration": "https://img.moegirl.org.cn/common/thumb/6/69/Phisong_apocalypse.png/304px-Phisong_apocalypse.png",
@@ -3258,7 +3354,7 @@
         "chapter": "Chapter EX-OverRapid 精选集",
         "bpm": "175",
         "composer": "Θ",
-        "length": "2:08",
+        "length": "2:00",
         "illustrator": "mology (青鸟&V17AMax Modified)",
         "chart": {
             "EZ": {
@@ -4319,6 +4415,390 @@
             }
         }
     },
+    "Silence is Golden, Speech is Golden": {
+        "song": "Silence is Golden, Speech is Golden",
+        "illustration": "https://img.moegirl.org.cn/common/thumb/3/3d/Silence_is_Golden_Phigros.png/304px-Silence_is_Golden_Phigros.png",
+        "illustration_big": "https://img.moegirl.org.cn/common/3/3d/Silence_is_Golden_Phigros.png",
+        "chapter": "Chapter EX-EGTS精选集",
+        "bpm": "177",
+        "composer": "NIWASHI",
+        "length": "2:44",
+        "illustrator": "Jerry & OsuMe65",
+        "chart": {
+            "EZ": {
+                "level": "5",
+                "difficulty": "5.0",
+                "combo": "376",
+                "charter": "Clutter is coppery, Tumult is coppery"
+            },
+            "HD": {
+                "level": "9",
+                "difficulty": "9.3",
+                "combo": "795",
+                "charter": "XMT is silvery, 小咩兔 is silvery"
+            },
+            "IN": {
+                "level": "15",
+                "difficulty": "15.6",
+                "combo": "1273",
+                "charter": "Hara is golden, Kuma is golden"
+            }
+        }
+    },
+    "Fractured Angel": {
+        "song": "Fractured Angel",
+        "illustration": "https://img.moegirl.org.cn/common/thumb/6/66/Fractured_Angel_Phigros.png/304px-Fractured_Angel_Phigros.png",
+        "illustration_big": "https://img.moegirl.org.cn/common/6/66/Fractured_Angel_Phigros.png",
+        "chapter": "Chapter EX-EGTS精选集",
+        "bpm": "301",
+        "composer": "DJ Raisei",
+        "length": "3:00",
+        "illustrator": "OsuMe65",
+        "chart": {
+            "EZ": {
+                "level": "4",
+                "difficulty": "4.0",
+                "combo": "626",
+                "charter": "Su1fuR"
+            },
+            "HD": {
+                "level": "10",
+                "difficulty": "10.9",
+                "combo": "796",
+                "charter": "Su1fuR"
+            },
+            "IN": {
+                "level": "16",
+                "difficulty": "16.3",
+                "combo": "1084",
+                "charter": "逆天使の惡魔【Likey】"
+            }
+        }
+    },
+    "Resolver": {
+        "song": "Resolver",
+        "illustration": "https://img.moegirl.org.cn/common/thumb/d/d5/Resolver_Phigros.png/304px-Resolver_Phigros.png",
+        "illustration_big": "https://img.moegirl.org.cn/common/d/d5/Resolver_Phigros.png",
+        "chapter": "Chapter EX-EGTS精选集",
+        "bpm": "123",
+        "composer": "Gomadare",
+        "length": "2:40",
+        "illustrator": "Transendium",
+        "chart": {
+            "EZ": {
+                "level": "3",
+                "difficulty": "3.0",
+                "combo": "128",
+                "charter": "Salt"
+            },
+            "HD": {
+                "level": "8",
+                "difficulty": "8.8",
+                "combo": "339",
+                "charter": "Salt"
+            },
+            "IN": {
+                "level": "14",
+                "difficulty": "14.5",
+                "combo": "993",
+                "charter": "Clutter vs. Salt"
+            }
+        }
+    },
+    "Luminous Entities Lost Heart": {
+        "song": "Luminous Entities Lost Heart",
+        "illustration": "https://img.moegirl.org.cn/common/thumb/b/ba/Luminous_Entities_Lost_Heart_Phigros.png/304px-Luminous_Entities_Lost_Heart_Phigros.png",
+        "illustration_big": "https://img.moegirl.org.cn/common/b/ba/Luminous_Entities_Lost_Heart_Phigros.png",
+        "chapter": "Chapter EX-EGTS精选集",
+        "bpm": "200",
+        "composer": "NormalM feat. Usagi Denki",
+        "length": "2:47",
+        "illustrator": "Transendium",
+        "chart": {
+            "EZ": {
+                "level": "5",
+                "difficulty": "5.0",
+                "combo": "275",
+                "charter": "1uminous StaR"
+            },
+            "HD": {
+                "level": "10",
+                "difficulty": "10.9",
+                "combo": "461",
+                "charter": "1uminous StaR"
+            },
+            "IN": {
+                "level": "15",
+                "difficulty": "15.2",
+                "combo": "929",
+                "charter": "光る星"
+            }
+        }
+    },
+    "KIZUNA Resolution": {
+        "song": "KIZUNA Resolution",
+        "illustration": "https://img.moegirl.org.cn/common/thumb/b/b1/KIZUNA_Resolution_Phigros.png/304px-KIZUNA_Resolution_Phigros.png",
+        "illustration_big": "https://img.moegirl.org.cn/common/b/b1/KIZUNA_Resolution_Phigros.png",
+        "chapter": "Chapter EX-EGTS精选集",
+        "bpm": "240",
+        "composer": "TAG",
+        "length": "2:14",
+        "illustrator": "Transendium",
+        "chart": {
+            "EZ": {
+                "level": "8",
+                "difficulty": "8.0",
+                "combo": "262",
+                "charter": "Likey underground"
+            },
+            "HD": {
+                "level": "13",
+                "difficulty": "13.4",
+                "combo": "722",
+                "charter": "HD R.esolution"
+            },
+            "IN": {
+                "level": "16",
+                "difficulty": "16.4",
+                "combo": "1039",
+                "charter": "Sempiternal Fxxxxxx Resolution!"
+            }
+        }
+    },
+    "AbsoluTe disoRdeR": {
+        "song": "AbsoluTe disoRdeR",
+        "illustration": "https://img.moegirl.org.cn/common/thumb/a/a3/AbsoluTe_disoRdeR_Phigros.png/304px-AbsoluTe_disoRdeR_Phigros.png",
+        "illustration_big": "https://img.moegirl.org.cn/common/a/a3/AbsoluTe_disoRdeR_Phigros.png",
+        "chapter": "Chapter EX-EGTS精选集",
+        "bpm": "256",
+        "composer": "Acute Disarray",
+        "length": "3:09",
+        "illustrator": "Kyuare & Wsx",
+        "chart": {
+            "EZ": {
+                "level": "6",
+                "difficulty": "6.5",
+                "combo": "766",
+                "charter": "Su1fuR"
+            },
+            "HD": {
+                "level": "12",
+                "difficulty": "12.3",
+                "combo": "1046",
+                "charter": "騎士 vs. Knight"
+            },
+            "IN": {
+                "level": "16",
+                "difficulty": "16.2",
+                "combo": "1600",
+                "charter": "Executor-X"
+            },
+            "AT": {
+                "level": "17",
+                "difficulty": "17.2",
+                "combo": "2025",
+                "charter": "Apocalyptic Dissonance"
+            }
+        }
+    },
+    "Aphrodite's Child(short ver.)": {
+        "song": "Aphrodite's Child(short ver.)",
+        "illustration": "https://img.moegirl.org.cn/common/thumb/5/57/Aphrodite%27s_Child_Phigros.png/304px-Aphrodite%27s_Child_Phigros.png",
+        "illustration_big": "https://img.moegirl.org.cn/common/5/57/Aphrodite%27s_Child_Phigros.png",
+        "chapter": "Chapter EX-Immaculée Sekai精选集",
+        "bpm": "128",
+        "composer": "RUQOA",
+        "length": "2:47",
+        "illustrator": "Sin:cK for Immaculée Sekai",
+        "chart": {
+            "EZ": {
+                "level": "3",
+                "difficulty": "3.5",
+                "combo": "251",
+                "charter": "StupiGGy"
+            },
+            "HD": {
+                "level": "8",
+                "difficulty": "8.1",
+                "combo": "516",
+                "charter": "SutpiGGy"
+            },
+            "IN": {
+                "level": "13",
+                "difficulty": "13.3",
+                "combo": "674",
+                "charter": "StrayCat"
+            }
+        }
+    },
+    "DevlAtiOn(short ver.)": {
+        "song": "DevlAtiOn(short ver.)",
+        "illustration": "https://img.moegirl.org.cn/common/thumb/b/b2/DeclAtiOn_Phigros.png/304px-DeclAtiOn_Phigros.png",
+        "illustration_big": "https://img.moegirl.org.cn/common/b/b2/DeclAtiOn_Phigros.png",
+        "chapter": "Chapter EX-Immaculée Sekai精选集",
+        "bpm": "140-155",
+        "composer": "polysha",
+        "length": "2:52",
+        "illustrator": "cala for Immaculée Sekai",
+        "chart": {
+            "EZ": {
+                "level": "5",
+                "difficulty": "5.0",
+                "combo": "222",
+                "charter": "COC"
+            },
+            "HD": {
+                "level": "11",
+                "difficulty": "11.1",
+                "combo": "827",
+                "charter": "COC"
+            },
+            "IN": {
+                "level": "15",
+                "difficulty": "15.6",
+                "combo": "1117",
+                "charter": "Nr3_Official"
+            }
+        }
+    },
+    "NO x": {
+        "song": "NO x",
+        "illustration": "https://img.moegirl.org.cn/common/thumb/d/d4/NO_x_Phigros.png/304px-NO_x_Phigros.png",
+        "illustration_big": "https://img.moegirl.org.cn/common/d/d4/NO_x_Phigros.png",
+        "chapter": "Chapter EX-Immaculée Sekai精选集",
+        "bpm": "190",
+        "composer": "Juggernaut.",
+        "length": "2:33",
+        "illustrator": "cala for Immaculée Sekai",
+        "chart": {
+            "EZ": {
+                "level": "4",
+                "difficulty": "4.5",
+                "combo": "198",
+                "charter": "Su1fuR"
+            },
+            "HD": {
+                "level": "10",
+                "difficulty": "10.3",
+                "combo": "700",
+                "charter": "IUIsauce"
+            },
+            "IN": {
+                "level": "16",
+                "difficulty": "16.1",
+                "combo": "1150",
+                "charter": "StR-1"
+            }
+        }
+    },
+    "Radiance": {
+        "song": "Radiance",
+        "illustration": "https://img.moegirl.org.cn/common/thumb/d/d9/Radiance_Phigros.png/304px-Radiance_Phigros.png",
+        "illustration_big": "https://img.moegirl.org.cn/common/d/d9/Radiance_Phigros.png",
+        "chapter": "Chapter EX-オンゲキ精选集",
+        "bpm": "155",
+        "composer": "Nhato",
+        "length": "2:26",
+        "illustrator": "SEGA(V17AMax modified)",
+        "chart": {
+            "EZ": {
+                "level": "3",
+                "difficulty": "3.5",
+                "combo": "218",
+                "charter": "Su1fuR"
+            },
+            "HD": {
+                "level": "11",
+                "difficulty": "11.5",
+                "combo": "639",
+                "charter": "Rikko EXPERT Lv.40"
+            },
+            "IN": {
+                "level": "14",
+                "difficulty": "14.0",
+                "combo": "667",
+                "charter": "XMT小咩兔"
+            },
+            "AT": {
+                "level": "15",
+                "difficulty": "15.5",
+                "combo": "926",
+                "charter": "Яadiance"
+            }
+        }
+    },
+    "Diamond Dust": {
+        "song": "Diamond Dust",
+        "illustration": "https://img.moegirl.org.cn/common/thumb/0/04/Diamond_Dust_Phigros.png/304px-Diamond_Dust_Phigros.png",
+        "illustration_big": "https://img.moegirl.org.cn/common/0/04/Diamond_Dust_Phigros.png",
+        "chapter": "Chapter EX-オンゲキ精选集",
+        "bpm": "200",
+        "composer": "Masahiro \"Godspeed\" Aoki",
+        "length": "2:35",
+        "illustrator": "SEGA(V17AMax modified)",
+        "chart": {
+            "EZ": {
+                "level": "5",
+                "difficulty": "5.0",
+                "combo": "266",
+                "charter": "Salt"
+            },
+            "HD": {
+                "level": "10",
+                "difficulty": "10.8",
+                "combo": "646",
+                "charter": "Salt"
+            },
+            "IN": {
+                "level": "15",
+                "difficulty": "15.3",
+                "combo": "986",
+                "charter": "Gausbon"
+            },
+            "AT": {
+                "level": "16",
+                "difficulty": "16.7",
+                "combo": "1518",
+                "charter": "StupiGGy"
+            }
+        }
+    },
+    "Stardust:RAY": {
+        "song": "Stardust:RAY",
+        "illustration": "https://img.moegirl.org.cn/common/thumb/e/eb/Stardust_RAY_Phigros.png/304px-Stardust_RAY_Phigros.png",
+        "illustration_big": "https://img.moegirl.org.cn/common/e/eb/Stardust_RAY_Phigros.png",
+        "chapter": "Chapter EX-オンゲキ精选集",
+        "bpm": "164",
+        "composer": "kanone vs. BlackY",
+        "length": "2:46",
+        "illustrator": "SEGA(V17AMax modified)",
+        "chart": {
+            "EZ": {
+                "level": "6",
+                "difficulty": "6.0",
+                "combo": "399",
+                "charter": "Simon_Axis vs. Su1fuR"
+            },
+            "HD": {
+                "level": "12",
+                "difficulty": "12.5",
+                "combo": "844",
+                "charter": "Su1fuR vs. Simon_Axis"
+            },
+            "IN": {
+                "level": "16",
+                "difficulty": "16.5",
+                "combo": "1392",
+                "charter": "曦枢 vs. 鎏光 -Lv.70 LEAF-"
+            },
+            "AT": {
+                "level": "17",
+                "difficulty": "17.2",
+                "combo": "1570",
+                "charter": "完璧 vs 愈株 -Autumn Memory-"
+            }
+        }
+    },
     "Doppelganger": {
         "song": "Doppelganger",
         "illustration": "https://img.moegirl.org.cn/common/thumb/8/86/Doppelganger_Phigros.png/304px-Doppelganger_Phigros.png",
@@ -4834,8 +5314,8 @@
                 "charter": "Catcats aka. 無極 VS H.C.C. fixed by 晨"
             },
             "HD": {
-                "level": "10",
-                "difficulty": "10.8",
+                "level": "11",
+                "difficulty": "11.7",
                 "combo": "651",
                 "charter": "Catcats aka. 無極 VS H.C.C. fixed by Pcat"
             },
@@ -7049,66 +7529,6 @@
             }
         }
     },
-    "Silence is Golden, Speech is Golden": {
-        "song": "Silence is Golden, Speech is Golden",
-        "illustration": "https://img.moegirl.org.cn/common/thumb/3/3d/Silence_is_Golden_Phigros.png/304px-Silence_is_Golden_Phigros.png",
-        "illustration_big": "https://img.moegirl.org.cn/common/3/3d/Silence_is_Golden_Phigros.png",
-        "chapter": "单曲精选集",
-        "bpm": "177",
-        "composer": "NIWASHI",
-        "length": "2:44",
-        "illustrator": "Jerry & OsuMe65",
-        "chart": {
-            "EZ": {
-                "level": "5",
-                "difficulty": "5.0",
-                "combo": "376",
-                "charter": "Clutter is coppery, Tumult is coppery"
-            },
-            "HD": {
-                "level": "9",
-                "difficulty": "9.3",
-                "combo": "795",
-                "charter": "XMT is silvery, 小咩兔 is silvery"
-            },
-            "IN": {
-                "level": "15",
-                "difficulty": "15.6",
-                "combo": "1273",
-                "charter": "Hara is golden, Kuma is golden"
-            }
-        }
-    },
-    "Fractured Angel": {
-        "song": "Fractured Angel",
-        "illustration": "https://img.moegirl.org.cn/common/thumb/6/66/Fractured_Angel_Phigros.png/304px-Fractured_Angel_Phigros.png",
-        "illustration_big": "https://img.moegirl.org.cn/common/6/66/Fractured_Angel_Phigros.png",
-        "chapter": "单曲精选集",
-        "bpm": "301",
-        "composer": "DJ Raisei",
-        "length": "3:00",
-        "illustrator": "OsuMe65",
-        "chart": {
-            "EZ": {
-                "level": "4",
-                "difficulty": "4.0",
-                "combo": "626",
-                "charter": "Su1fuR"
-            },
-            "HD": {
-                "level": "10",
-                "difficulty": "10.9",
-                "combo": "796",
-                "charter": "Su1fuR"
-            },
-            "IN": {
-                "level": "16",
-                "difficulty": "16.3",
-                "combo": "1084",
-                "charter": "逆天使の惡魔【Likey】"
-            }
-        }
-    },
     "bye": {
         "song": "bye",
         "illustration": "https://img.moegirl.org.cn/common/thumb/d/d9/Bye_Phigros.png/304px-Bye_Phigros.png",
@@ -8018,6 +8438,96 @@
                 "difficulty": "13.7",
                 "combo": "691",
                 "charter": "~漂泊者~凹酱"
+            }
+        }
+    },
+    "Alice in a xxxxxxxx": {
+        "song": "Alice in a xxxxxxxx",
+        "illustration": "https://img.moegirl.org.cn/common/thumb/4/4b/Alice_in_a_xxxxxxxx_Phigros.png/304px-Alice_in_a_xxxxxxxx_Phigros.png",
+        "illustration_big": "https://img.moegirl.org.cn/common/4/4b/Alice_in_a_xxxxxxxx_Phigros.png",
+        "chapter": "单曲精选集",
+        "bpm": "144",
+        "composer": "Nagiha",
+        "length": "2:35",
+        "illustrator": "神居冰绘 feat. 祁莲",
+        "chart": {
+            "EZ": {
+                "level": "5",
+                "difficulty": "5.0",
+                "combo": "239",
+                "charter": "XMT小咩兔"
+            },
+            "HD": {
+                "level": "9",
+                "difficulty": "9.7",
+                "combo": "433",
+                "charter": "XMT小咩兔"
+            },
+            "IN": {
+                "level": "15",
+                "difficulty": "15.7",
+                "combo": "922",
+                "charter": "□MT小咩兔 in a XXXXXXXX"
+            }
+        }
+    },
+    "Frozen Heart": {
+        "song": "Frozen Heart",
+        "illustration": "https://img.moegirl.org.cn/common/thumb/3/3f/Frozen_Heart_Phigros.png/304px-Frozen_Heart_Phigros.png",
+        "illustration_big": "https://img.moegirl.org.cn/common/3/3f/Frozen_Heart_Phigros.png",
+        "chapter": "单曲精选集",
+        "bpm": "185",
+        "composer": "A-39/沙包P",
+        "length": "3:12",
+        "illustrator": "山山奇",
+        "chart": {
+            "EZ": {
+                "level": "5",
+                "difficulty": "5.0",
+                "combo": "353",
+                "charter": "SantR"
+            },
+            "HD": {
+                "level": "10",
+                "difficulty": "10.6",
+                "combo": "708",
+                "charter": "SantR"
+            },
+            "IN": {
+                "level": "14",
+                "difficulty": "14.4",
+                "combo": "939",
+                "charter": "Likey & Gausbon"
+            }
+        }
+    },
+    "Helios": {
+        "song": "Helios",
+        "illustration": "https://img.moegirl.org.cn/common/thumb/a/a5/Helios_Phigros.png/304px-Helios_Phigros.png",
+        "illustration_big": "https://img.moegirl.org.cn/common/a/a5/Helios_Phigros.png",
+        "chapter": "单曲精选集",
+        "bpm": "150",
+        "composer": "NOA(Cortrix) & BotaNya",
+        "length": "2:14",
+        "illustrator": "Spectro",
+        "chart": {
+            "EZ": {
+                "level": "4",
+                "difficulty": "4.5",
+                "combo": "188",
+                "charter": "jeitie goes outside"
+            },
+            "HD": {
+                "level": "9",
+                "difficulty": "9.2",
+                "combo": "391",
+                "charter": "jeitie touches grass"
+            },
+            "IN": {
+                "level": "14",
+                "difficulty": "14.1",
+                "combo": "786",
+                "charter": "jeitie gets sent to the sun"
             }
         }
     },
