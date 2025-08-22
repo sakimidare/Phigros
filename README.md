@@ -4,17 +4,13 @@
 
 **由于萌娘百科服务器周期性爆炸，本仓库可能不是最新。**
 
-本仓库 Phigros 版本： <!-- begin Phigros version --> `3.11.1` <!-- end Phigros version -->
+本仓库 Phigros 版本： <!-- begin Phigros version --> `3.15.0` <!-- end Phigros version -->
 
-更新时间： <!-- begin Phigros time --> 2025.2.28 <!-- end Phigros time -->
+更新时间： <!-- begin Phigros time --> 2025.8.8 <!-- end Phigros time -->
 
 更新日志 / 官方动态：
 <!-- begin Phigros log -->
-> Phigros将于2025年2月28日更新！本次更新包含两首来自「宇宙电台2024」的单曲。  
-> 更新的曲目是：  
->   
-> 「宇宙残骸少女 (Cosmic Dusty Girl) 」 by 辻原一郎  
-> 「Swing Skip Drop」 by ミハイル  
+
 <!-- end Phigros log -->
 
 ## 介绍
