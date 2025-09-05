@@ -1856,6 +1856,12 @@
                 "difficulty": "15.4",
                 "combo": "881",
                 "charter": "Su1fuR -FAISEURS DE PANIQUE-"
+            },
+            "AT": {
+                "level": "16",
+                "difficulty": "16.4",
+                "combo": "1111",
+                "charter": "StR-1"
             }
         }
     },
@@ -2042,6 +2048,12 @@
                 "difficulty": "15.6",
                 "combo": "1149",
                 "charter": "Absolute(6)"
+            },
+            "AT": {
+                "level": "16",
+                "difficulty": "16.9",
+                "combo": "1156",
+                "charter": "Concat(Ramification,Richter)"
             }
         }
     },
@@ -8528,6 +8540,72 @@
                 "difficulty": "14.1",
                 "combo": "786",
                 "charter": "jeitie gets sent to the sun"
+            }
+        }
+    },
+    "Retribution  ~ Cycle of Redemption ~": {
+        "song": "Retribution  ~ Cycle of Redemption ~",
+        "illustration": "https://img.moegirl.org.cn/common/thumb/d/d0/Retribution_Cycle_of_Redemption_Phigros.png/304px-Retribution_Cycle_of_Redemption_Phigros.png",
+        "illustration_big": "https://img.moegirl.org.cn/common/d/d0/Retribution_Cycle_of_Redemption_Phigros.png",
+        "chapter": "单曲精选集",
+        "bpm": "225",
+        "composer": "Ardolf vs. Daily天利",
+        "length": "2:54",
+        "illustrator": "死と花の大祭司(ʌᴉoƨმᴉϝ);;",
+        "chart": {
+            "EZ": {
+                "level": "6",
+                "difficulty": "6.0",
+                "combo": "393",
+                "charter": "StR-1&右果_Ary"
+            },
+            "HD": {
+                "level": "11",
+                "difficulty": "11.3",
+                "combo": "789",
+                "charter": "StR-1&右果_Ary"
+            },
+            "IN": {
+                "level": "16",
+                "difficulty": "16.2",
+                "combo": "1502",
+                "charter": "Simon_ Axis vs. Likey [Respect Ner as \"SP△DE\"]"
+            }
+        }
+    },
+    "雪降り~雪が降っている~": {
+        "song": "雪降り~雪が降っている~",
+        "illustration": "https://img.moegirl.org.cn/common/thumb/0/09/Kotoshimo_yukifuri_ry_phigros.png/304px-Kotoshimo_yukifuri_ry_phigros.png",
+        "illustration_big": "https://img.moegirl.org.cn/common/0/09/Kotoshimo_yukifuri_ry_phigros.png",
+        "chapter": "单曲精选集",
+        "bpm": "156",
+        "composer": "AiSS w/ 夜輪 ft.結月ゆかり",
+        "length": "2:29",
+        "illustrator": "Vios.NoFurry.git",
+        "chart": {
+            "EZ": {
+                "level": "1",
+                "difficulty": "1.5",
+                "combo": "111",
+                "charter": "Su1fuR"
+            },
+            "HD": {
+                "level": "7",
+                "difficulty": "7.5",
+                "combo": "364",
+                "charter": "Su1fuR"
+            },
+            "IN": {
+                "level": "12",
+                "difficulty": "12.0",
+                "combo": "429",
+                "charter": "XMT after BarbarNerSAN"
+            },
+            "AT": {
+                "level": "14",
+                "difficulty": "14.0",
+                "combo": "531",
+                "charter": "小咩兔的多指课堂 vs. 上课睡大觉"
             }
         }
     },
