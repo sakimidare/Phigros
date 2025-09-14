@@ -209,7 +209,7 @@
             },
             "IN": {
                 "level": "13",
-                "difficulty": "13.4",
+                "difficulty": "13.3",
                 "combo": "733",
                 "charter": "百九十八"
             }
@@ -1061,7 +1061,7 @@
             },
             "IN": {
                 "level": "13",
-                "difficulty": "13.8",
+                "difficulty": "13.9",
                 "combo": "776",
                 "charter": "Ctymax vs. Barbarianerman"
             }
@@ -1403,7 +1403,7 @@
             },
             "HD": {
                 "level": "8",
-                "difficulty": "8.4",
+                "difficulty": "8.8",
                 "combo": "397",
                 "charter": "Jαckψ"
             },
@@ -1631,7 +1631,7 @@
             },
             "IN": {
                 "level": "14",
-                "difficulty": "14.3",
+                "difficulty": "14.4",
                 "combo": "827",
                 "charter": "NerSAN & 百九十八"
             }
@@ -1985,7 +1985,7 @@
             },
             "IN": {
                 "level": "14",
-                "difficulty": "14.6",
+                "difficulty": "14.3",
                 "combo": "811",
                 "charter": "LuminousGausbon"
             }
@@ -4505,13 +4505,13 @@
             },
             "HD": {
                 "level": "8",
-                "difficulty": "8.8",
+                "difficulty": "8.4",
                 "combo": "339",
                 "charter": "Salt"
             },
             "IN": {
                 "level": "14",
-                "difficulty": "14.5",
+                "difficulty": "14.4",
                 "combo": "993",
                 "charter": "Clutter vs. Salt"
             }
@@ -4535,7 +4535,7 @@
             },
             "HD": {
                 "level": "10",
-                "difficulty": "10.9",
+                "difficulty": "10.7",
                 "combo": "461",
                 "charter": "1uminous StaR"
             },
@@ -4595,13 +4595,13 @@
             },
             "HD": {
                 "level": "12",
-                "difficulty": "12.3",
+                "difficulty": "12.4",
                 "combo": "1046",
                 "charter": "騎士 vs. Knight"
             },
             "IN": {
                 "level": "16",
-                "difficulty": "16.2",
+                "difficulty": "16.3",
                 "combo": "1600",
                 "charter": "Executor-X"
             },
@@ -4733,7 +4733,7 @@
             },
             "AT": {
                 "level": "15",
-                "difficulty": "15.5",
+                "difficulty": "15.6",
                 "combo": "926",
                 "charter": "Яadiance"
             }
@@ -8477,7 +8477,7 @@
             },
             "IN": {
                 "level": "15",
-                "difficulty": "15.7",
+                "difficulty": "15.8",
                 "combo": "922",
                 "charter": "□MT小咩兔 in a XXXXXXXX"
             }
@@ -8507,7 +8507,7 @@
             },
             "IN": {
                 "level": "14",
-                "difficulty": "14.4",
+                "difficulty": "14.6",
                 "combo": "939",
                 "charter": "Likey & Gausbon"
             }
@@ -8524,14 +8524,14 @@
         "illustrator": "Spectro",
         "chart": {
             "EZ": {
-                "level": "4",
-                "difficulty": "4.5",
+                "level": "5",
+                "difficulty": "5.5",
                 "combo": "188",
                 "charter": "jeitie goes outside"
             },
             "HD": {
                 "level": "9",
-                "difficulty": "9.2",
+                "difficulty": "9.0",
                 "combo": "391",
                 "charter": "jeitie touches grass"
             },
