@@ -4811,6 +4811,138 @@
             }
         }
     },
+    "アンビバレンス": {
+        "song": "アンビバレンス",
+        "illustration": "undefined",
+        "illustration_big": "undefined",
+        "chapter": "Chapter EX-maimai精选集",
+        "bpm": "187",
+        "composer": "すりぃX相沢",
+        "length": "2:42",
+        "illustrator": "SEGA(祈莲 modified)",
+        "chart": {
+            "EZ": {
+                "level": "3",
+                "difficulty": "3.5",
+                "combo": "299",
+                "charter": "XMT小咩兔"
+            },
+            "HD": {
+                "level": "8",
+                "difficulty": "8.7",
+                "combo": "1046",
+                "charter": "XMT小咩兔"
+            },
+            "IN": {
+                "level": "14",
+                "difficulty": "14.1",
+                "combo": "1128",
+                "charter": "弧光 With Opposition"
+            }
+        }
+    },
+    "Komplexe": {
+        "song": "Komplexe",
+        "illustration": "undefined",
+        "illustration_big": "undefined",
+        "chapter": "Chapter EX-maimai精选集",
+        "bpm": "165",
+        "composer": "雄之助 feat.Sennzai",
+        "length": "2:22",
+        "illustrator": "SEGA(祈莲 modified)",
+        "chart": {
+            "EZ": {
+                "level": "4",
+                "difficulty": "4.0",
+                "combo": "238",
+                "charter": "Helabot"
+            },
+            "HD": {
+                "level": "9",
+                "difficulty": "9.6",
+                "combo": "485",
+                "charter": "右果_Ary"
+            },
+            "IN": {
+                "level": "14",
+                "difficulty": "14.3",
+                "combo": "1051",
+                "charter": "Likey"
+            }
+        }
+    },
+    "s∅lips": {
+        "song": "s∅lips",
+        "illustration": "undefined",
+        "illustration_big": "undefined",
+        "chapter": "Chapter EX-maimai精选集",
+        "bpm": "199",
+        "composer": "rintaro soma",
+        "length": "2:24",
+        "illustrator": "SEGA(祈莲 modified)",
+        "chart": {
+            "EZ": {
+                "level": "7",
+                "difficulty": "7.5",
+                "combo": "363",
+                "charter": "Helabot"
+            },
+            "HD": {
+                "level": "12",
+                "difficulty": "12.8",
+                "combo": "935",
+                "charter": "Salt"
+            },
+            "IN": {
+                "level": "15",
+                "difficulty": "15.8",
+                "combo": "1128",
+                "charter": "St2.1GHz -F∅r The Pigeons-"
+            },
+            "AT": {
+                "level": "16",
+                "difficulty": "16.8",
+                "combo": "1175",
+                "charter": "∅"
+            }
+        }
+    },
+    "QZKago Requiem": {
+        "song": "QZKago Requiem",
+        "illustration": "undefined",
+        "illustration_big": "undefined",
+        "chapter": "Chapter EX-maimai精选集",
+        "bpm": "257",
+        "composer": "t+pazolite",
+        "length": "2:18",
+        "illustrator": "SEGA(祈莲 modified)",
+        "chart": {
+            "EZ": {
+                "level": "7",
+                "difficulty": "7.0",
+                "combo": "296",
+                "charter": "-"
+            },
+            "HD": {
+                "level": "13",
+                "difficulty": "13.3",
+                "combo": "1007",
+                "charter": "Rikko EXPERT Life:999"
+            },
+            "IN": {
+                "level": "16",
+                "difficulty": "16.4",
+                "combo": "1259",
+                "charter": "Gausbon"
+            },
+            "AT": {
+                "level": "17",
+                "difficulty": "17.4",
+                "combo": "1723",
+                "charter": "Salt feat. M3ow"
+            }
+        }
+    },
     "Doppelganger": {
         "song": "Doppelganger",
         "illustration": "https://img.moegirl.org.cn/common/thumb/8/86/Doppelganger_Phigros.png/304px-Doppelganger_Phigros.png",
