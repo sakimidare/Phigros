@@ -8741,6 +8741,66 @@
             }
         }
     },
+    "So laggy! (feat. Uzumaki)": {
+        "song": "So laggy! (feat. Uzumaki)",
+        "illustration": "undefined",
+        "illustration_big": "undefined",
+        "chapter": "单曲精选集",
+        "bpm": "180",
+        "composer": "ShrimpCats.(はあちX後藤涼輔)",
+        "length": "2:03",
+        "illustrator": "塩焼とまと",
+        "chart": {
+            "EZ": {
+                "level": "5",
+                "difficulty": "5.0",
+                "combo": "218",
+                "charter": "Salt"
+            },
+            "HD": {
+                "level": "9",
+                "difficulty": "9.5",
+                "combo": "445",
+                "charter": "Salt"
+            },
+            "IN": {
+                "level": "14",
+                "difficulty": "14.8",
+                "combo": "825",
+                "charter": "Salt"
+            }
+        }
+    },
+    "000 -Ain Soph Aur-": {
+        "song": "000 -Ain Soph Aur-",
+        "illustration": "undefined",
+        "illustration_big": "undefined",
+        "chapter": "单曲精选集",
+        "bpm": "194",
+        "composer": "Yumeji",
+        "length": "2:34",
+        "illustrator": "NerSAN",
+        "chart": {
+            "EZ": {
+                "level": "2",
+                "difficulty": "2.5",
+                "combo": "171",
+                "charter": "Magazet"
+            },
+            "HD": {
+                "level": "8",
+                "difficulty": "8.4",
+                "combo": "371",
+                "charter": "Magazet"
+            },
+            "IN": {
+                "level": "14",
+                "difficulty": "14.4",
+                "combo": "689",
+                "charter": "啊0哒0咔0哟 & Dilated"
+            }
+        }
+    },
     "Introduction": {
         "song": "Introduction",
         "illustration": "https://img.moegirl.org.cn/common/thumb/1/13/Introduction.png/304px-Introduction.png",
