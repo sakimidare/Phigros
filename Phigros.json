@@ -2357,7 +2357,7 @@
             },
             "IN": {
                 "level": "14",
-                "difficulty": "14.2",
+                "difficulty": "14.3",
                 "combo": "873",
                 "charter": "百九十八"
             }
@@ -2387,7 +2387,7 @@
             },
             "IN": {
                 "level": "14",
-                "difficulty": "14.4",
+                "difficulty": "14.5",
                 "combo": "898",
                 "charter": "Ctymax vs. Gausbounce"
             }
@@ -2567,7 +2567,7 @@
             },
             "IN": {
                 "level": "13",
-                "difficulty": "13.7",
+                "difficulty": "13.8",
                 "combo": "819",
                 "charter": "StupiGGy"
             }
@@ -3137,7 +3137,7 @@
             },
             "IN": {
                 "level": "14",
-                "difficulty": "14.5",
+                "difficulty": "14.6",
                 "combo": "840",
                 "charter": "Sillyp vs 晨"
             },
@@ -3233,7 +3233,7 @@
             },
             "IN": {
                 "level": "13",
-                "difficulty": "13.3",
+                "difficulty": "13.4",
                 "combo": "706",
                 "charter": "NerSAN sipping XMTea"
             }
@@ -3263,7 +3263,7 @@
             },
             "IN": {
                 "level": "15",
-                "difficulty": "15.1",
+                "difficulty": "15.2",
                 "combo": "1102",
                 "charter": "Hook vs._鉄"
             }
@@ -3593,7 +3593,7 @@
             },
             "HD": {
                 "level": "11",
-                "difficulty": "11.1",
+                "difficulty": "11.4",
                 "combo": "968",
                 "charter": "VikingNexus"
             },
@@ -3725,7 +3725,7 @@
             },
             "IN": {
                 "level": "14",
-                "difficulty": "14.6",
+                "difficulty": "14.7",
                 "combo": "901",
                 "charter": "NerSAN"
             }
@@ -3785,7 +3785,7 @@
             },
             "IN": {
                 "level": "14",
-                "difficulty": "14.2",
+                "difficulty": "14.3",
                 "combo": "908",
                 "charter": "クラッ夕·アナザ一·ラウンド"
             }
@@ -3815,7 +3815,7 @@
             },
             "IN": {
                 "level": "14",
-                "difficulty": "14.7",
+                "difficulty": "14.6",
                 "combo": "895",
                 "charter": "Gausbon feat. 迟戈&野从"
             }
@@ -3983,7 +3983,7 @@
             },
             "IN": {
                 "level": "14",
-                "difficulty": "14.3",
+                "difficulty": "14.2",
                 "combo": "789",
                 "charter": "Xlutter guided by three Oaths-"
             }
@@ -4139,7 +4139,7 @@
             },
             "IN": {
                 "level": "15",
-                "difficulty": "15.6",
+                "difficulty": "15.5",
                 "combo": "1200",
                 "charter": "Salt & Barbarianerman"
             }
@@ -4163,7 +4163,7 @@
             },
             "HD": {
                 "level": "11",
-                "difficulty": "11.3",
+                "difficulty": "11.1",
                 "combo": "566",
                 "charter": "COC feat. Su1fuR"
             },
@@ -4295,7 +4295,7 @@
             },
             "IN": {
                 "level": "14",
-                "difficulty": "14.2",
+                "difficulty": "14.1",
                 "combo": "935",
                 "charter": "Salt"
             }
@@ -4325,7 +4325,7 @@
             },
             "IN": {
                 "level": "15",
-                "difficulty": "15.4",
+                "difficulty": "15.3",
                 "combo": "1262",
                 "charter": "StupiGGy -The Startline-"
             }
@@ -4415,7 +4415,7 @@
             },
             "IN": {
                 "level": "15",
-                "difficulty": "15.1",
+                "difficulty": "15.2",
                 "combo": "1080",
                 "charter": "M3d1uM"
             },
@@ -4654,8 +4654,8 @@
         "illustrator": "cala for Immaculée Sekai",
         "chart": {
             "EZ": {
-                "level": "5",
-                "difficulty": "5.0",
+                "level": "4",
+                "difficulty": "4.5",
                 "combo": "222",
                 "charter": "COC"
             },
@@ -4667,7 +4667,7 @@
             },
             "IN": {
                 "level": "15",
-                "difficulty": "15.6",
+                "difficulty": "15.7",
                 "combo": "1117",
                 "charter": "Nr3_Official"
             }
@@ -4721,7 +4721,7 @@
             },
             "HD": {
                 "level": "11",
-                "difficulty": "11.5",
+                "difficulty": "11.9",
                 "combo": "639",
                 "charter": "Rikko EXPERT Lv.40"
             },
@@ -5285,7 +5285,7 @@
             },
             "IN": {
                 "level": "15",
-                "difficulty": "15.3",
+                "difficulty": "15.4",
                 "combo": "1186",
                 "charter": "撕裂者『Alloces vs Shin』"
             }
@@ -5681,7 +5681,7 @@
             },
             "IN": {
                 "level": "13",
-                "difficulty": "13.2",
+                "difficulty": "13.1",
                 "combo": "613",
                 "charter": "阿爽 vs. Ctymax -Haose 垃圾-"
             }
@@ -5921,7 +5921,7 @@
             },
             "IN": {
                 "level": "14",
-                "difficulty": "14.1",
+                "difficulty": "14.2",
                 "combo": "724",
                 "charter": "鲲 fixed by 百九十八"
             }
@@ -6095,7 +6095,7 @@
             },
             "HD": {
                 "level": "9",
-                "difficulty": "9.7",
+                "difficulty": "9.9",
                 "combo": "626",
                 "charter": "Snorkel"
             },
@@ -6424,8 +6424,8 @@
                 "charter": "阿爽"
             },
             "HD": {
-                "level": "9",
-                "difficulty": "9.6",
+                "level": "10",
+                "difficulty": "10.4",
                 "combo": "329",
                 "charter": "NerSAN"
             },
@@ -6791,7 +6791,7 @@
             },
             "IN": {
                 "level": "14",
-                "difficulty": "14.4",
+                "difficulty": "14.2",
                 "combo": "866",
                 "charter": "Future BarbarXMT"
             }
@@ -6845,7 +6845,7 @@
             },
             "HD": {
                 "level": "9",
-                "difficulty": "9.8",
+                "difficulty": "9.7",
                 "combo": "596",
                 "charter": "M3d1uM & 百九十八"
             },
@@ -7031,7 +7031,7 @@
             },
             "IN": {
                 "level": "14",
-                "difficulty": "14.6",
+                "difficulty": "14.5",
                 "combo": "613",
                 "charter": "TangScend -Err0rederci-"
             }
@@ -7247,7 +7247,7 @@
             },
             "IN": {
                 "level": "14",
-                "difficulty": "14.5",
+                "difficulty": "14.6",
                 "combo": "972",
                 "charter": "Believe Ctymax & TimiTini"
             }
@@ -7577,7 +7577,7 @@
             },
             "IN": {
                 "level": "15",
-                "difficulty": "15.8",
+                "difficulty": "15.9",
                 "combo": "1243",
                 "charter": "さるふるふるさ"
             }
@@ -7751,7 +7751,7 @@
             },
             "HD": {
                 "level": "9",
-                "difficulty": "9.5",
+                "difficulty": "9.7",
                 "combo": "900",
                 "charter": "B.B.M."
             },
@@ -7787,7 +7787,7 @@
             },
             "IN": {
                 "level": "15",
-                "difficulty": "15.2",
+                "difficulty": "15.1",
                 "combo": "977",
                 "charter": "Timi今天吃神马"
             }
@@ -7949,7 +7949,7 @@
             },
             "IN": {
                 "level": "14",
-                "difficulty": "14.4",
+                "difficulty": "14.6",
                 "combo": "800",
                 "charter": "Salt & Uvernight"
             }
@@ -8099,7 +8099,7 @@
             },
             "IN": {
                 "level": "14",
-                "difficulty": "14.6",
+                "difficulty": "14.5",
                 "combo": "951",
                 "charter": "StrayCat"
             }
@@ -8159,7 +8159,7 @@
             },
             "IN": {
                 "level": "15",
-                "difficulty": "15.2",
+                "difficulty": "15.1",
                 "combo": "1257",
                 "charter": "\"-1\""
             }
@@ -8213,7 +8213,7 @@
             },
             "HD": {
                 "level": "10",
-                "difficulty": "10.8",
+                "difficulty": "10.9",
                 "combo": "491",
                 "charter": "OPENING/Level R"
             },
@@ -8339,7 +8339,7 @@
             },
             "IN": {
                 "level": "13",
-                "difficulty": "13.9",
+                "difficulty": "13.7",
                 "combo": "793",
                 "charter": "Salt"
             }
@@ -8399,7 +8399,7 @@
             },
             "IN": {
                 "level": "13",
-                "difficulty": "13.1",
+                "difficulty": "13.2",
                 "combo": "696",
                 "charter": "人外侵略地球计划"
             }
@@ -8423,7 +8423,7 @@
             },
             "HD": {
                 "level": "10",
-                "difficulty": "10.7",
+                "difficulty": "10.8",
                 "combo": "596",
                 "charter": "StR-1"
             },
@@ -8476,8 +8476,8 @@
         "illustrator": "3z",
         "chart": {
             "EZ": {
-                "level": "2",
-                "difficulty": "2.5",
+                "level": "3",
+                "difficulty": "3.0",
                 "combo": "207",
                 "charter": "Barbarianerman"
             },
@@ -8603,7 +8603,7 @@
             },
             "HD": {
                 "level": "9",
-                "difficulty": "9.7",
+                "difficulty": "9.5",
                 "combo": "433",
                 "charter": "XMT小咩兔"
             },
