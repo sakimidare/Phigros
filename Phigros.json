@@ -4943,6 +4943,96 @@
             }
         }
     },
+    "Xep+ion": {
+        "song": "Xep+ion",
+        "illustration": "undefined",
+        "illustration_big": "undefined",
+        "chapter": "Chapter EX-Liminality精选集",
+        "bpm": "170",
+        "composer": "Acotto",
+        "length": "1:57",
+        "illustrator": "クルス(Ctymax modified)",
+        "chart": {
+            "EZ": {
+                "level": "2",
+                "difficulty": "2.5",
+                "combo": "123",
+                "charter": "Su1fuR"
+            },
+            "HD": {
+                "level": "9",
+                "difficulty": "9.8",
+                "combo": "352",
+                "charter": "professional Rikko"
+            },
+            "IN": {
+                "level": "14",
+                "difficulty": "14.8",
+                "combo": "698",
+                "charter": "Su1fuRikko"
+            }
+        }
+    },
+    "Archidoxen": {
+        "song": "Archidoxen",
+        "illustration": "undefined",
+        "illustration_big": "undefined",
+        "chapter": "Chapter EX-Liminality精选集",
+        "bpm": "160",
+        "composer": "Se_IRA",
+        "length": "2:03",
+        "illustrator": "n/a(Ctymax modified)",
+        "chart": {
+            "EZ": {
+                "level": "4",
+                "difficulty": "4.0",
+                "combo": "262",
+                "charter": "Rft."
+            },
+            "HD": {
+                "level": "10",
+                "difficulty": "10.0",
+                "combo": "543",
+                "charter": "Rft."
+            },
+            "IN": {
+                "level": "15",
+                "difficulty": "15.6",
+                "combo": "938",
+                "charter": "Rft."
+            }
+        }
+    },
+    "百鬼֎夜行": {
+        "song": "百鬼֎夜行",
+        "illustration": "undefined",
+        "illustration_big": "undefined",
+        "chapter": "Chapter EX-maimai精选集",
+        "bpm": "200",
+        "composer": "Salad Savior",
+        "length": "2:18",
+        "illustrator": "軽目くお(Ctymax modified)",
+        "chart": {
+            "EZ": {
+                "level": "4",
+                "difficulty": "4.5",
+                "combo": "253",
+                "charter": "Magazet"
+            },
+            "HD": {
+                "level": "10",
+                "difficulty": "10.1",
+                "combo": "625",
+                "charter": "Magazet"
+            },
+            "IN": {
+                "level": "15",
+                "difficulty": "15.8",
+                "combo": "956",
+                "charter": "~Algax vs. RipHall~"
+            }
+        }
+    },
     "Doppelganger": {
         "song": "Doppelganger",
         "illustration": "https://img.moegirl.org.cn/common/thumb/8/86/Doppelganger_Phigros.png/304px-Doppelganger_Phigros.png",
@@ -8798,6 +8888,42 @@
                 "difficulty": "14.4",
                 "combo": "689",
                 "charter": "啊0哒0咔0哟 & Dilated"
+            }
+        }
+    },
+    "BANGING STRIKE": {
+        "song": "BANGING STRIKE",
+        "illustration": "undefined",
+        "illustration_big": "undefined",
+        "chapter": "单曲精选集",
+        "bpm": "234",
+        "composer": "Dew Pleiades",
+        "length": "2:28",
+        "illustrator": "Rutumn feat. 汉堡",
+        "chart": {
+            "EZ": {
+                "level": "5",
+                "difficulty": "5.0",
+                "combo": "371",
+                "charter": "adky"
+            },
+            "HD": {
+                "level": "10",
+                "difficulty": "10.2",
+                "combo": "644",
+                "charter": "adky"
+            },
+            "IN": {
+                "level": "16",
+                "difficulty": "16.0",
+                "combo": "1248",
+                "charter": "Salt & Uvernight"
+            },
+            "AT": {
+                "level": "16",
+                "difficulty": "16.9",
+                "combo": "1677",
+                "charter": "魔王、大咩兔の兄『大咩免』!!"
             }
         }
     },
