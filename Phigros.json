@@ -2017,7 +2017,7 @@
                 "level": "14",
                 "difficulty": "14.8",
                 "combo": "732",
-                "charter": "Simon_Axis·骑士·StR-1"
+                "charter": "Simon_Axis·騎士·StR-1"
             }
         }
     },
@@ -2052,7 +2052,7 @@
             "AT": {
                 "level": "16",
                 "difficulty": "16.9",
-                "combo": "1156",
+                "combo": "1306",
                 "charter": "Concat(Ramification,Richter)"
             }
         }
@@ -9020,6 +9020,66 @@
                 "difficulty": "16.9",
                 "combo": "1677",
                 "charter": "魔王、大咩兔の兄『大咩免』!!"
+            }
+        }
+    },
+    "最高傑作": {
+        "song": "最高傑作",
+        "illustration": "undefined",
+        "illustration_big": "undefined",
+        "chapter": "单曲精选集",
+        "bpm": "130",
+        "composer": "PYKAMIA",
+        "length": "2:22",
+        "illustrator": "Nai Guozi",
+        "chart": {
+            "EZ": {
+                "level": "4",
+                "difficulty": "4.5",
+                "combo": "203",
+                "charter": "StR-1"
+            },
+            "HD": {
+                "level": "9",
+                "difficulty": "9.7",
+                "combo": "346",
+                "charter": "StR-1"
+            },
+            "IN": {
+                "level": "13",
+                "difficulty": "13.9",
+                "combo": "697",
+                "charter": "_鉄咩兔"
+            }
+        }
+    },
+    "Locomotive": {
+        "song": "Locomotive",
+        "illustration": "undefined",
+        "illustration_big": "undefined",
+        "chapter": "单曲精选集",
+        "bpm": "128",
+        "composer": "♠K",
+        "length": "2:30",
+        "illustrator": "Otaku_宅",
+        "chart": {
+            "EZ": {
+                "level": "3",
+                "difficulty": "3.0",
+                "combo": "196",
+                "charter": "Minibus"
+            },
+            "HD": {
+                "level": "9",
+                "difficulty": "9.7",
+                "combo": "403",
+                "charter": "Motorcoach"
+            },
+            "IN": {
+                "level": "13",
+                "difficulty": "13.7",
+                "combo": "666",
+                "charter": "Monorail"
             }
         }
     },
