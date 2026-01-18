@@ -5129,6 +5129,96 @@
             }
         }
     },
+    "Alb": {
+        "song": "Alb",
+        "illustration": "https://storage.moegirl.org.cn/moegirl/commons/8/8e/Alb_Phigros.png!/fw/304/watermark/url/L21vZWdpcmwvd2F0ZXJtYXJrLnBuZw==/align/southeast/margin/10x10/opacity/50?v=20260117190426",
+        "illustration_big": "https://storage.moegirl.org.cn/moegirl/commons/8/8e/Alb_Phigros.png!/fw/304/watermark/url/L21vZWdpcmwvd2F0ZXJtYXJrLnBuZw==/align/southeast/margin/10x10/opacity",
+        "chapter": "Chapter EX-CytusII精选集",
+        "bpm": "140",
+        "composer": "Avans",
+        "length": "2:30",
+        "illustrator": "©2026 Rayark Inc. CYTUS II®",
+        "chart": {
+            "EZ": {
+                "level": "3",
+                "difficulty": "3.5",
+                "combo": "242",
+                "charter": "Likey"
+            },
+            "HD": {
+                "level": "8",
+                "difficulty": "8.9",
+                "combo": "687",
+                "charter": "Ary"
+            },
+            "IN": {
+                "level": "14",
+                "difficulty": "14.7",
+                "combo": "898",
+                "charter": ""
+            }
+        }
+    },
+    "Incyde": {
+        "song": "Incyde",
+        "illustration": "https://storage.moegirl.org.cn/moegirl/commons/8/82/Incyde_Phigros.png!/fw/304/watermark/url/L21vZWdpcmwvd2F0ZXJtYXJrLnBuZw==/align/southeast/margin/10x10/opacity/50?v=20260117190512",
+        "illustration_big": "https://storage.moegirl.org.cn/moegirl/commons/8/82/Incyde_Phigros.png!/fw/304/watermark/url/L21vZWdpcmwvd2F0ZXJtYXJrLnBuZw==/align/southeast/margin/10x10/opacity",
+        "chapter": "Chapter EX-CytusII精选集",
+        "bpm": "180",
+        "composer": "YbeLL",
+        "length": "3:20",
+        "illustrator": "©2026 Rayark Inc. CYTUS II®",
+        "chart": {
+            "EZ": {
+                "level": "7",
+                "difficulty": "7.0",
+                "combo": "521",
+                "charter": "【梵之起始】爬爬 vs. 盐"
+            },
+            "HD": {
+                "level": "12",
+                "difficulty": "12.1",
+                "combo": "1141",
+                "charter": "EOO200"
+            },
+            "IN": {
+                "level": "16",
+                "difficulty": "16.2",
+                "combo": "1648",
+                "charter": "Magazet wanders within StR-1"
+            }
+        }
+    },
+    "彩": {
+        "song": "彩",
+        "illustration": "https://storage.moegirl.org.cn/moegirl/commons/5/54/%E5%BD%A9_Phigros.png!/fw/304/watermark/url/L21vZWdpcmwvd2F0ZXJtYXJrLnBuZw==/align/southeast/margin/10x10/opacity/50?v=20260117190552",
+        "illustration_big": "https://storage.moegirl.org.cn/moegirl/commons/5/54/%E5%BD%A9_Phigros.png!/fw/304/watermark/url/L21vZWdpcmwvd2F0ZXJtYXJrLnBuZw==/align/southeast/margin/10x10/opacity",
+        "chapter": "Chapter EX-CytusII精选集",
+        "bpm": "170",
+        "composer": "MisoilePunch♪",
+        "length": "2:42",
+        "illustrator": "©2026 Rayark Inc. CYTUS II®",
+        "chart": {
+            "EZ": {
+                "level": "6",
+                "difficulty": "6.0",
+                "combo": "378",
+                "charter": "爬爬"
+            },
+            "HD": {
+                "level": "12",
+                "difficulty": "12.5",
+                "combo": "817",
+                "charter": "凛"
+            },
+            "IN": {
+                "level": "16",
+                "difficulty": "16.4",
+                "combo": "1439",
+                "charter": "OPCII_0584_X"
+            }
+        }
+    },
     "Doppelganger": {
         "song": "Doppelganger",
         "illustration": "https://storage.moegirl.org.cn/moegirl/commons/8/86/Doppelganger_Phigros.png!/fw/304/watermark/url/L21vZWdpcmwvd2F0ZXJtYXJrLnBuZw==/align/southeast/margin/10x10/opacity/50?v=20210214122002",
@@ -9025,8 +9115,8 @@
     },
     "最高傑作": {
         "song": "最高傑作",
-        "illustration": "undefined",
-        "illustration_big": "undefined",
+        "illustration": "https://storage.moegirl.org.cn/moegirl/commons/f/f2/%E6%9C%80%E9%AB%98%E5%82%91%E4%BD%9C_Phigros.png!/fw/304/watermark/url/L21vZWdpcmwvd2F0ZXJtYXJrLnBuZw==/align/southeast/margin/10x10/opacity/50?v=20260118142148",
+        "illustration_big": "https://storage.moegirl.org.cn/moegirl/commons/f/f2/%E6%9C%80%E9%AB%98%E5%82%91%E4%BD%9C_Phigros.png!/fw/304/watermark/url/L21vZWdpcmwvd2F0ZXJtYXJrLnBuZw==/align/southeast/margin/10x10/opacity",
         "chapter": "单曲精选集",
         "bpm": "130",
         "composer": "PYKAMIA",
@@ -9055,8 +9145,8 @@
     },
     "Locomotive": {
         "song": "Locomotive",
-        "illustration": "undefined",
-        "illustration_big": "undefined",
+        "illustration": "https://storage.moegirl.org.cn/moegirl/commons/7/7a/Locomotive_Phigros.png!/fw/304/watermark/url/L21vZWdpcmwvd2F0ZXJtYXJrLnBuZw==/align/southeast/margin/10x10/opacity/50?v=20260118142301",
+        "illustration_big": "https://storage.moegirl.org.cn/moegirl/commons/7/7a/Locomotive_Phigros.png!/fw/304/watermark/url/L21vZWdpcmwvd2F0ZXJtYXJrLnBuZw==/align/southeast/margin/10x10/opacity",
         "chapter": "单曲精选集",
         "bpm": "128",
         "composer": "♠K",
