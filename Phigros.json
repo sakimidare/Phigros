@@ -9173,6 +9173,66 @@
             }
         }
     },
+    "彼方へ、名もなき海辺より": {
+        "song": "彼方へ、名もなき海辺より",
+        "illustration": "undefined",
+        "illustration_big": "undefined",
+        "chapter": "单曲精选集",
+        "bpm": "185",
+        "composer": "打打だいず&月乃",
+        "length": "2:52",
+        "illustrator": "月乃",
+        "chart": {
+            "EZ": {
+                "level": "3",
+                "difficulty": "3.5",
+                "combo": "217",
+                "charter": "打打だいずファンクラブ会長 -- Likey！！"
+            },
+            "HD": {
+                "level": "8",
+                "difficulty": "8.1",
+                "combo": "409",
+                "charter": "打打だいずファンクラブ会長 -- Likey！！"
+            },
+            "IN": {
+                "level": "14",
+                "difficulty": "14.5",
+                "combo": "841",
+                "charter": "打打だいずファンクラブ会長 -- Likey！！"
+            }
+        }
+    },
+    "ABYSS MOTION 192.333": {
+        "song": "ABYSS MOTION 192.333",
+        "illustration": "undefined",
+        "illustration_big": "undefined",
+        "chapter": "单曲精选集",
+        "bpm": "192.333",
+        "composer": "ariiol & 奏Sou",
+        "length": "2:05",
+        "illustrator": "kkmfd",
+        "chart": {
+            "EZ": {
+                "level": "4",
+                "difficulty": "4.0",
+                "combo": "320",
+                "charter": "ABYSS 543.320"
+            },
+            "HD": {
+                "level": "9",
+                "difficulty": "9.8",
+                "combo": "543",
+                "charter": "ABYSS 543.320"
+            },
+            "IN": {
+                "level": "14",
+                "difficulty": "14.7",
+                "combo": "815",
+                "charter": "MOTION 464.237"
+            }
+        }
+    },
     "Introduction": {
         "song": "Introduction",
         "illustration": "https://storage.moegirl.org.cn/moegirl/commons/1/13/Introduction.png!/fw/304/watermark/url/L21vZWdpcmwvd2F0ZXJtYXJrLnBuZw==/align/southeast/margin/10x10/opacity/50?v=20210402075725",
