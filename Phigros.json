@@ -845,7 +845,7 @@
             },
             "IN": {
                 "level": "12",
-                "difficulty": "12.7",
+                "difficulty": "12.6",
                 "combo": "407",
                 "charter": "阿♪爽"
             }
@@ -905,7 +905,7 @@
             },
             "IN": {
                 "level": "14",
-                "difficulty": "14.4",
+                "difficulty": "14.3",
                 "combo": "900",
                 "charter": "Barbarianerman"
             }
@@ -1145,7 +1145,7 @@
             },
             "HD": {
                 "level": "12",
-                "difficulty": "12.3",
+                "difficulty": "12.5",
                 "combo": "773",
                 "charter": "阿爽『Destroy』"
             },
@@ -1859,7 +1859,7 @@
             },
             "AT": {
                 "level": "16",
-                "difficulty": "16.4",
+                "difficulty": "16.5",
                 "combo": "1111",
                 "charter": "StR-1"
             }
@@ -2069,7 +2069,7 @@
         "chart": {
             "EZ": {
                 "level": "8",
-                "difficulty": "8.1",
+                "difficulty": "8.6",
                 "combo": "479",
                 "charter": "LDAJOY&PLEASANT ^V^ LDA"
             },
@@ -2903,7 +2903,7 @@
             },
             "HD": {
                 "level": "12",
-                "difficulty": "12.3",
+                "difficulty": "12.0",
                 "combo": "733",
                 "charter": "啊哒咔哟&小咩兔&COC"
             },
@@ -3173,7 +3173,7 @@
             },
             "IN": {
                 "level": "13",
-                "difficulty": "13.6",
+                "difficulty": "13.8",
                 "combo": "713",
                 "charter": "倪之所爽"
             }
@@ -4205,7 +4205,7 @@
             },
             "AT": {
                 "level": "16",
-                "difficulty": "16.8",
+                "difficulty": "16.7",
                 "combo": "1088",
                 "charter": "Jky vs StrayCat"
             }
@@ -4654,8 +4654,8 @@
         "illustrator": "cala for Immaculée Sekai",
         "chart": {
             "EZ": {
-                "level": "4",
-                "difficulty": "4.5",
+                "level": "5",
+                "difficulty": "5.0",
                 "combo": "222",
                 "charter": "COC"
             },
@@ -4793,7 +4793,7 @@
             },
             "HD": {
                 "level": "12",
-                "difficulty": "12.5",
+                "difficulty": "12.3",
                 "combo": "844",
                 "charter": "Su1fuR vs. Simon_Axis"
             },
@@ -4822,8 +4822,8 @@
         "illustrator": "SEGA(祈莲 modified)",
         "chart": {
             "EZ": {
-                "level": "3",
-                "difficulty": "3.5",
+                "level": "4",
+                "difficulty": "4.0",
                 "combo": "299",
                 "charter": "XMT小咩兔"
             },
@@ -4852,8 +4852,8 @@
         "illustrator": "SEGA(祈莲 modified)",
         "chart": {
             "EZ": {
-                "level": "4",
-                "difficulty": "4.0",
+                "level": "3",
+                "difficulty": "3.5",
                 "combo": "238",
                 "charter": "Helabot"
             },
@@ -4882,8 +4882,8 @@
         "illustrator": "SEGA(祈莲 modified)",
         "chart": {
             "EZ": {
-                "level": "7",
-                "difficulty": "7.5",
+                "level": "6",
+                "difficulty": "6.0",
                 "combo": "363",
                 "charter": "Helabot"
             },
@@ -4894,8 +4894,8 @@
                 "charter": "Salt"
             },
             "IN": {
-                "level": "15",
-                "difficulty": "15.8",
+                "level": "16",
+                "difficulty": "16.0",
                 "combo": "1128",
                 "charter": "St2.1GHz -F∅r The Pigeons-"
             },
@@ -4919,7 +4919,7 @@
         "chart": {
             "EZ": {
                 "level": "7",
-                "difficulty": "7.0",
+                "difficulty": "7.5",
                 "combo": "296",
                 "charter": "-"
             },
@@ -4931,7 +4931,7 @@
             },
             "IN": {
                 "level": "16",
-                "difficulty": "16.4",
+                "difficulty": "16.3",
                 "combo": "1259",
                 "charter": "Gausbon"
             },
@@ -5087,7 +5087,7 @@
             },
             "IN": {
                 "level": "14",
-                "difficulty": "14.5",
+                "difficulty": "14.4",
                 "combo": "721",
                 "charter": "Salt"
             }
@@ -5170,20 +5170,20 @@
         "illustrator": "©2026 Rayark Inc. CYTUS II®",
         "chart": {
             "EZ": {
-                "level": "7",
-                "difficulty": "7.0",
+                "level": "6",
+                "difficulty": "6.0",
                 "combo": "521",
                 "charter": "【梵之起始】爬爬 vs. 盐"
             },
             "HD": {
                 "level": "12",
-                "difficulty": "12.1",
+                "difficulty": "12.5",
                 "combo": "1141",
                 "charter": "EOO200"
             },
             "IN": {
                 "level": "16",
-                "difficulty": "16.2",
+                "difficulty": "16.4",
                 "combo": "1648",
                 "charter": "Magazet wanders within StR-1"
             }
@@ -5200,20 +5200,20 @@
         "illustrator": "©2026 Rayark Inc. CYTUS II®",
         "chart": {
             "EZ": {
-                "level": "6",
-                "difficulty": "6.0",
+                "level": "7",
+                "difficulty": "7.0",
                 "combo": "378",
                 "charter": "爬爬"
             },
             "HD": {
                 "level": "12",
-                "difficulty": "12.5",
+                "difficulty": "12.1",
                 "combo": "817",
                 "charter": "凛"
             },
             "IN": {
                 "level": "16",
-                "difficulty": "16.4",
+                "difficulty": "16.2",
                 "combo": "1439",
                 "charter": "OPCII_0584_X"
             }
@@ -5981,7 +5981,7 @@
             },
             "HD": {
                 "level": "12",
-                "difficulty": "12.0",
+                "difficulty": "12.3",
                 "combo": "613",
                 "charter": "Phigros Charting Team"
             },
@@ -6077,7 +6077,7 @@
             },
             "IN": {
                 "level": "14",
-                "difficulty": "14.0",
+                "difficulty": "14.1",
                 "combo": "708",
                 "charter": "JKy"
             }
@@ -6137,7 +6137,7 @@
             },
             "IN": {
                 "level": "14",
-                "difficulty": "14.7",
+                "difficulty": "14.8",
                 "combo": "697",
                 "charter": "百九十八"
             }
@@ -8519,7 +8519,7 @@
             },
             "HD": {
                 "level": "12",
-                "difficulty": "12.5",
+                "difficulty": "12.7",
                 "combo": "835",
                 "charter": "vacant/stupiggy"
             },
@@ -8782,14 +8782,14 @@
         "illustrator": "RM Design Team（青鸟 modified）",
         "chart": {
             "EZ": {
-                "level": "5",
-                "difficulty": "5.0",
+                "level": "4",
+                "difficulty": "4.5",
                 "combo": "268",
                 "charter": "StupiGGy"
             },
             "HD": {
                 "level": "10",
-                "difficulty": "10.8",
+                "difficulty": "10.3",
                 "combo": "445",
                 "charter": "Blessing beyond myself."
             },
@@ -8945,7 +8945,7 @@
             },
             "IN": {
                 "level": "14",
-                "difficulty": "14.1",
+                "difficulty": "14.2",
                 "combo": "786",
                 "charter": "jeitie gets sent to the sun"
             }
@@ -9041,7 +9041,7 @@
             },
             "IN": {
                 "level": "14",
-                "difficulty": "14.8",
+                "difficulty": "14.6",
                 "combo": "825",
                 "charter": "Salt"
             }
@@ -9100,14 +9100,14 @@
                 "charter": "adky"
             },
             "IN": {
-                "level": "16",
-                "difficulty": "16.0",
+                "level": "15",
+                "difficulty": "15.9",
                 "combo": "1248",
                 "charter": "Salt & Uvernight"
             },
             "AT": {
                 "level": "16",
-                "difficulty": "16.9",
+                "difficulty": "16.8",
                 "combo": "1677",
                 "charter": "魔王、大咩兔の兄『大咩免』!!"
             }
@@ -9154,8 +9154,8 @@
         "illustrator": "Otaku_宅",
         "chart": {
             "EZ": {
-                "level": "3",
-                "difficulty": "3.0",
+                "level": "4",
+                "difficulty": "4.0",
                 "combo": "196",
                 "charter": "Minibus"
             },
@@ -9167,7 +9167,7 @@
             },
             "IN": {
                 "level": "13",
-                "difficulty": "13.7",
+                "difficulty": "13.5",
                 "combo": "666",
                 "charter": "Monorail"
             }
